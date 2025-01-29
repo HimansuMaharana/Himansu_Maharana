@@ -1,5 +1,6 @@
-   
-  
+<img align="center" alt="Coding" width="1080" height="300" src="https://github.com/HimansuMaharana/Himansu_Maharana/blob/main/imgr.gif">        
+
+     
 
 # About Me:
 • Bridging the gap between design and development.<br>• Front-end development (HTML, CSS, JS) enthusiast.<br>• Graphic design skills in Figma, Canva, and Adobe.<br>• 8 months of SAP S4/HANA testing experience.<br>• Passionate about creating user-friendly experiences.<br>• Get in touch via mail @himansumaharana99@gmail.com.
