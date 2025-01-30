@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" width="1080" height="300" src="https://github.com/HimansuMaharana/Himansu_Maharana/blob/main/imgr.gif">        
+<img align="center" alt="Coding" width="1080" height="360" src="https://github.com/HimansuMaharana/Himansu_Maharana/blob/main/mygifr.gif">        
 
 <h1 align="center">Hi, I'm Himansu Maharana</h1>
 
