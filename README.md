@@ -3,7 +3,7 @@
 <h1 align="center">Hi, I'm Himansu Maharana</h1>
 
 # About Me
-• Front-end development (HTML, CSS, JS) enthusiast.<br>•  Graphic design skills in Figma, Canva, and Adobe.<br>• Check out my work on [Behance](https://www.behance.net/gallery/218095419/Tastopia-App).<br>•  8 months of SAP S4/HANA testing experience.<br>•  Passionate about creating user-friendly experiences.<br>•  Get in touch via mail @himansumaharana99@gmail.com.
+• Front-end development (HTML, CSS, JS) enthusiast.<br>•  Graphic design skills in Figma, Canva, and Adobe.<br>• Check out my work on [Behance](https://www.behance.net/gallery/218113659/Tastopia).<br>•  8 months of SAP S4/HANA testing experience.<br>•  Passionate about creating user-friendly experiences.<br>•  Get in touch via mail @himansumaharana99@gmail.com.
 
 
 # Socials
